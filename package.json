@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/deltama37/ts-bolt#readme",
   "dependencies": {
-    "@slack/bolt": "^2.2.3"
+    "@slack/bolt": "^2.2.3",
+    "dotenv": "^8.2.0"
   },
   "devDependencies": {
     "@types/node": "^14.0.26",
