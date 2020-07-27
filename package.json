@@ -19,5 +19,9 @@
   "homepage": "https://github.com/deltama37/ts-bolt#readme",
   "dependencies": {
     "@slack/bolt": "^2.2.3"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.26",
+    "typescript": "^3.9.7"
   }
 }
