@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/deltama37/ts-bolt/issues"
   },
-  "homepage": "https://github.com/deltama37/ts-bolt#readme"
+  "homepage": "https://github.com/deltama37/ts-bolt#readme",
+  "dependencies": {
+    "@slack/bolt": "^2.2.3"
+  }
 }
